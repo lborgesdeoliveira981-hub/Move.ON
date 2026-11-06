@@ -1,0 +1,6 @@
+{
+  "name": "MOVE.ON Consulting — Next Generation",
+  "description": "Plataforma institucional e executiva da MOVE.ON Consulting. Governança de Projetos, Processos BPM, ecossistema SAP e metodologia proprietária BTO (Business Transformation Office).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
